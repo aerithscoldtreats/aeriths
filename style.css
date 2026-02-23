@@ -1,0 +1,6 @@
+body{background:#fff8f2;font-family:Poppins,sans-serif;}
+.logo{font-size:28px;font-weight:800;color:#ff6b9a;}
+.hero{text-align:center;padding:100px;background:linear-gradient(135deg,#ffb347,#ff6b9a,#6c5ce7);color:white;}
+.section{text-align:center;padding:60px;}
+.card{background:white;padding:30px;margin:10px;border-radius:20px;display:inline-block;}
+.btn{padding:12px 25px;border-radius:30px;border:none;}
